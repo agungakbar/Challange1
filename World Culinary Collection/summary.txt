@@ -1,1 +1,18 @@
-Temporary.txt
+list makanan 3 negara :
+indonesia:
+Pempek
+Model
+Tekwan 
+
+malaysia:
+roti canai
+kari ayam
+nasi lemak
+
+india:
+samosa
+butter chicken
+gulabjamun
+
+
+
